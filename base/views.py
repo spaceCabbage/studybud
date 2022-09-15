@@ -10,11 +10,6 @@ from .models import Room, Topic, Message
 from .forms import RoomForm
 
 
-#rooms = [
-#    {'id':1, 'name':'Lets learn Python'},
-#    {'id':2, 'name':'design with me'},
-#    {'id':3, 'name':'Front end devs'}, 
-#]
 
 
 def loginPage(request):
