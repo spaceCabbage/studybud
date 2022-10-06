@@ -1,3 +1,16 @@
 https://www.youtube.com/watch?v=PtQiiknWUcI
 
 3:28:21
+
+
+SETUP
+
+use venv:
+
+    win/ {env name}\scripts\activate
+    lin/ source {env name}/bin/activate
+
+$ pip install -r requirements.txt
+$ python(3) manage.py runserver
+
+noice
