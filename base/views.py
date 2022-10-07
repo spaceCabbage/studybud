@@ -10,8 +10,6 @@ from .models import Room, Topic, Message
 from .forms import RoomForm
 
 
-
-
 def loginPage(request):
     
     page = 'login'
