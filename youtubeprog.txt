@@ -5,6 +5,8 @@ https://www.youtube.com/watch?v=PtQiiknWUcI
 
 SETUP
 
+pip -m venv env
+
 use venv:
 
     win/ {env name}\scripts\activate
